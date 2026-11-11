@@ -15,8 +15,18 @@ I'm Adi Kopel Levi, a product manager who builds AI solutions for small business
 | [site-copy-he](skills/site-copy-he/SKILL.md) | Rules for Hebrew marketing copy, website content and on-screen text. Includes a test for generic sentences and patterns for buttons, errors and empty states. |
 | [presentation-craft](skills/presentation-craft/SKILL.md) | How to build a deck people present instead of read: very little text per slide, plus a separate "what to say on each slide" script with delivery cues. |
 | [save](skills/save/SKILL.md) | Closes a long Claude Code session: writes a handoff file, updates the task list, backs up to git, and returns a short prompt the next session starts from. |
+| [council](skills/council/SKILL.md) | Convenes a panel of experts that attacks a plan before you build it. Each expert reviews on their own, and you get one risk report with a verdict: go, go with conditions, or stop. |
+| [client-meeting-summary](skills/client-meeting-summary/SKILL.md) | Turns a transcript or meeting notes into a summary you can send to the client: what was decided, what happens now, and what is still open. |
+| [rtl-hebrew](skills/rtl-hebrew/SKILL.md) | Hebrew and RTL rules: arrow direction, logical CSS properties, numbers that flip, and a check before delivery. |
+| [i18n-toggle](skills/i18n-toggle/SKILL.md) | Two rules for the language toggle on a bilingual site: its position never moves, and the button order never changes. |
+| [sticky-scroll-steps](skills/sticky-scroll-steps/SKILL.md) | A "how it works" section where scrolling switches the active step and the demo beside it. Ships with a React and Tailwind component, RTL and accessibility included. |
+| [holiday-deck](skills/holiday-deck/SKILL.md) | A holiday presentation for kids as three HTML pages: the deck, a "what to say on each slide" sheet for the child presenting, and a trivia game nobody can lose. |
 
 Also here: a [prompt for building your own skill](prompts/new-skill.md).
+
+## My agents
+
+Three agents that take you from an idea to a spec, one step each: discovery, business case, PRD. Each has a [card](agents/README.md) (in Hebrew) that says what it does, what you give it and what you get back. That page is also where you request access.
 
 The skill files are in Hebrew. Claude follows them in any conversation language, and the structure is easy to adapt if you write in another one.
 
@@ -40,18 +50,16 @@ Claude loads a skill when your request matches its description. Full instruction
 
 ## How these are written
 
-- **Plain text only.** No scripts, no downloads, nothing that runs. You can audit every skill by reading it.
+- **Plain text only.** No scripts, no downloads, nothing that runs. You can audit every skill by reading it. The one exception is `sticky-scroll-steps`, which ships a React component you copy into your own project.
 - **Limits are written down.** Each skill says what it must not do, such as proposing solutions during an interview or pushing to a branch that triggers a deploy.
 - **Short.** A skill costs attention every time it loads. Lines that don't change behavior are cut.
 - **From real work.** Each one grew out of a client project or a lecture, and gets updated when it fails.
 
-## Coming next
+## If this helped
 
-- A business case agent that turns a messy description into problem, users, goals, constraints and success metrics.
-- A spec agent that turns the business case into a PRD.
-- A meeting transcript agent that returns a summary, tasks and a draft client message.
-
-Watch the repo to get them when they land.
+- **Star the repo.** It is how I know someone used it.
+- **Tell me what you built.** Open a ["what I built" issue](https://github.com/kai12342026/Kopel.AI/issues/new?template=what-i-built.md) with a couple of lines. I read all of them.
+- **Stay updated.** Watch the repo to hear about new skills. Every version is also a zip on the [Releases](https://github.com/kai12342026/Kopel.AI/releases) page.
 
 ## Credit and license
 
