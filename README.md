@@ -2,7 +2,7 @@
 
 Skills and prompts for Claude, written in Hebrew, taken from real client work.
 
-I'm Adi Kopel Levi, a product manager who builds AI solutions for small businesses. These are instructions I wrote for my own agents. Each one is a single text file you can read in two minutes, copy into a chat, or install as a skill.
+I'm Adi Kopel Levi, a product manager who builds AI solutions for businesses. These are instructions I wrote for my own agents. Each one is a single text file you can read in two minutes, copy into a chat, or install as a skill.
 
 [לקריאה בעברית](README.he.md)
 
