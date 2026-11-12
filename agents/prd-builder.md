@@ -1,6 +1,6 @@
 <div dir="rtl" lang="he">
 
-# Architect PRD Builder
+# אפרת · Architect PRD Builder
 
 שלב 3 מתוך 3 · [לכל הסוכנים](README.md)
 

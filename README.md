@@ -26,7 +26,10 @@ Also here: a [prompt for building your own skill](prompts/new-skill.md).
 
 ## My agents
 
-Three agents that take you from an idea to a spec, one step each: discovery, business case, PRD. Each has a [card](agents/README.md) (in Hebrew) that says what it does, what you give it and what you get back. That page is also where you request access.
+Each agent has a name and a [card](agents/README.md) (in Hebrew) that says what it does, what you give it and what you get back.
+
+- **Open to everyone:** [Mr Copy](agents/mr-copy.md) for marketing copy, and [Adula](agents/adula.md) for parents of babies up to one year old. The full instructions are in the repo.
+- **By request:** Noga, Beni and Efrat, three agents that take you from an idea to a spec, one step each: discovery, business case, PRD. Request access from the cards page.
 
 The skill files are in Hebrew. Claude follows them in any conversation language, and the structure is easy to adapt if you write in another one.
 

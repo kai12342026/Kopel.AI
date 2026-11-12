@@ -1,15 +1,15 @@
 ---
 name: בקשת גישה לסוכן
-about: רוצים לנסות את אחד מסוכני ה-Architect
+about: רוצים לנסות את נגה, בני או אפרת
 title: "בקשת גישה: "
 labels: agent-access
 ---
 
 **איזה סוכן מעניין אתכם?**
 
-- [ ] Discovery & Solution Architect
-- [ ] Architect Case Builder
-- [ ] Architect PRD Builder
+- [ ] נגה · Discovery & Solution Architect
+- [ ] בני · Architect Case Builder
+- [ ] אפרת · Architect PRD Builder
 
 **על מה תרצו להפעיל אותו?**
 

@@ -1,6 +1,6 @@
 <div dir="rtl" lang="he">
 
-# Architect Case Builder
+# בני · Architect Case Builder
 
 שלב 2 מתוך 3 · [לכל הסוכנים](README.md)
 

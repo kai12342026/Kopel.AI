@@ -1,6 +1,6 @@
 <div dir="rtl" lang="he">
 
-# Discovery & Solution Architect
+# נגה · Discovery & Solution Architect
 
 שלב 1 מתוך 3 · [לכל הסוכנים](README.md)
 
