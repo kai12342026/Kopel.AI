@@ -22,7 +22,7 @@ I'm Adi Kopel Levi, a product manager who builds AI solutions for small business
 | [sticky-scroll-steps](skills/sticky-scroll-steps/SKILL.md) | A "how it works" section where scrolling switches the active step and the demo beside it. Ships with a React and Tailwind component, RTL and accessibility included. |
 | [holiday-deck](skills/holiday-deck/SKILL.md) | A holiday presentation for kids as three HTML pages: the deck, a "what to say on each slide" sheet for the child presenting, and a trivia game nobody can lose. |
 
-Also here: a [prompt for building your own skill](prompts/new-skill.md).
+Also here: a [prompt for building your own skill](prompts/new-skill.md), and [two prompts for the Claude Code insights report](prompts/insights.md).
 
 ## My agents
 
