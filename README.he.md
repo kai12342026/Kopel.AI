@@ -24,7 +24,7 @@
 | [sticky-scroll-steps](skills/sticky-scroll-steps/SKILL.md) | סקשן "איך זה עובד" שבו הגלילה מחליפה את השלב הפעיל ואת הדמו שלצידו. כולל רכיב React ו-Tailwind מוכן, עם RTL ונגישות. |
 | [holiday-deck](skills/holiday-deck/SKILL.md) | מצגת חג לילדים בשלושה עמודי HTML: המצגת, דף "מה לומר בכל שקף" לילד שמציג, ומשחק טריוויה שאי אפשר להפסיד בו. |
 
-ועוד: [פרומפט לבניית סקיל משלכם](prompts/new-skill.md), ו[שני פרומפטים לדוח insights](prompts/insights.md) של Claude Code.
+ועוד: [פרומפט לבניית סקיל משלכם](prompts/new-skill.md), [שני פרומפטים לדוח insights](prompts/insights.md) של Claude Code, ו[מדריך בעברית לפקודות ולדגלים של Claude Code](docs/claude-code-commands.he.md).
 
 ## הסוכנים שלי
 
