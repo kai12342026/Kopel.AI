@@ -26,7 +26,7 @@ Also here: a [prompt for building your own skill](prompts/new-skill.md), [two pr
 
 ## My agents
 
-Each agent has a name and a [card](agents/README.md) (in Hebrew) that says what it does, what you give it and what you get back.
+Each agent has a name and a [card](agents/README.md) (in Hebrew) that says what it does, what you give it and what you get back. The whole team, with an illustration of the office, is on [the digital office page](agents/office.md) (in Hebrew).
 
 - **Open to everyone:** [Mr Copy](agents/mr-copy.md) for marketing copy, and [Adula](agents/adula.md) for parents of babies up to one year old. The full instructions are in the repo.
 - **By request:** Noga, Beni and Efrat, three agents that take you from an idea to a spec, one step each: discovery, business case, PRD. Request access from the cards page.
