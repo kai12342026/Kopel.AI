@@ -22,8 +22,10 @@ I'm Adi Kopel Levi, a product manager who builds AI solutions for businesses. Th
 | [sticky-scroll-steps](skills/sticky-scroll-steps/SKILL.md) | A "how it works" section where scrolling switches the active step and the demo beside it. Ships with a React and Tailwind component, RTL and accessibility included. |
 | [holiday-deck](skills/holiday-deck/SKILL.md) | A holiday presentation for kids as three HTML pages: the deck, a "what to say on each slide" sheet for the child presenting, and a trivia game nobody can lose. |
 | [model-router](skills/model-router/README.md) | Decides which Claude model to run for each task, so the most expensive one runs only where it is needed. Full details on request. |
+| [style-check](skills/style-check/README.md) | Checks text before it reaches a client: stops on internal words, reports long dashes and AI-sounding tone. Full details on request. |
+| [transcript](skills/transcript/README.md) | From a meeting transcript to a summary, tasks, a comparison with the task list, who needs a message, and a client draft. Full details on request. |
 
-Also here: a [prompt for building your own skill](prompts/new-skill.md), [two prompts for the Claude Code insights report](prompts/insights.md), and a [Hebrew guide to Claude Code commands and flags](docs/claude-code-commands.he.md).
+Also here: a [prompt for building your own skill](prompts/new-skill.md), [two prompts for the Claude Code insights report](prompts/insights.md), a [Hebrew guide to Claude Code commands and flags](docs/claude-code-commands.he.md), and [how I test an agent](docs/agent-evals.he.md) (in Hebrew).
 
 ## My agents
 

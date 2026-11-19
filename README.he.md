@@ -24,8 +24,10 @@
 | [sticky-scroll-steps](skills/sticky-scroll-steps/SKILL.md) | סקשן "איך זה עובד" שבו הגלילה מחליפה את השלב הפעיל ואת הדמו שלצידו. כולל רכיב React ו-Tailwind מוכן, עם RTL ונגישות. |
 | [holiday-deck](skills/holiday-deck/SKILL.md) | מצגת חג לילדים בשלושה עמודי HTML: המצגת, דף "מה לומר בכל שקף" לילד שמציג, ומשחק טריוויה שאי אפשר להפסיד בו. |
 | [model-router](skills/model-router/README.md) | מחליט באיזה מודל Claude להריץ כל משימה, כדי שהיקר ביותר ירוץ רק איפה שצריך. פרטים מלאים בבקשה. |
+| [style-check](skills/style-check/README.md) | בודק טקסט לפני שהוא מגיע ללקוח: עוצר על מילה פנימית, ומדווח על מקף ארוך וטון של AI. פרטים מלאים בבקשה. |
+| [transcript](skills/transcript/README.md) | מתמלול פגישה לסיכום, משימות, השוואה לרשימת המשימות, מי צריך הודעה וטיוטה ללקוח. פרטים מלאים בבקשה. |
 
-ועוד: [פרומפט לבניית סקיל משלכם](prompts/new-skill.md), [שני פרומפטים לדוח insights](prompts/insights.md) של Claude Code, ו[מדריך בעברית לפקודות ולדגלים של Claude Code](docs/claude-code-commands.he.md).
+ועוד: [פרומפט לבניית סקיל משלכם](prompts/new-skill.md), [שני פרומפטים לדוח insights](prompts/insights.md) של Claude Code, [מדריך בעברית לפקודות ולדגלים של Claude Code](docs/claude-code-commands.he.md), ו[איך אני בודקת סוכן](docs/agent-evals.he.md).
 
 ## הסוכנים שלי
 
