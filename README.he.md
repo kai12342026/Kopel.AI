@@ -23,6 +23,7 @@
 | [i18n-toggle](skills/i18n-toggle/SKILL.md) | שני חוקים למתג שפות באתר דו-לשוני: המיקום לא זז, וסדר הכפתורים לא משתנה. |
 | [sticky-scroll-steps](skills/sticky-scroll-steps/SKILL.md) | סקשן "איך זה עובד" שבו הגלילה מחליפה את השלב הפעיל ואת הדמו שלצידו. כולל רכיב React ו-Tailwind מוכן, עם RTL ונגישות. |
 | [holiday-deck](skills/holiday-deck/SKILL.md) | מצגת חג לילדים בשלושה עמודי HTML: המצגת, דף "מה לומר בכל שקף" לילד שמציג, ומשחק טריוויה שאי אפשר להפסיד בו. |
+| [model-router](skills/model-router/README.md) | מחליט באיזה מודל Claude להריץ כל משימה, כדי שהיקר ביותר ירוץ רק איפה שצריך. פרטים מלאים בבקשה. |
 
 ועוד: [פרומפט לבניית סקיל משלכם](prompts/new-skill.md), [שני פרומפטים לדוח insights](prompts/insights.md) של Claude Code, ו[מדריך בעברית לפקודות ולדגלים של Claude Code](docs/claude-code-commands.he.md).
 

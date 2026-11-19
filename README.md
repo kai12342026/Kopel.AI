@@ -21,6 +21,7 @@ I'm Adi Kopel Levi, a product manager who builds AI solutions for businesses. Th
 | [i18n-toggle](skills/i18n-toggle/SKILL.md) | Two rules for the language toggle on a bilingual site: its position never moves, and the button order never changes. |
 | [sticky-scroll-steps](skills/sticky-scroll-steps/SKILL.md) | A "how it works" section where scrolling switches the active step and the demo beside it. Ships with a React and Tailwind component, RTL and accessibility included. |
 | [holiday-deck](skills/holiday-deck/SKILL.md) | A holiday presentation for kids as three HTML pages: the deck, a "what to say on each slide" sheet for the child presenting, and a trivia game nobody can lose. |
+| [model-router](skills/model-router/README.md) | Decides which Claude model to run for each task, so the most expensive one runs only where it is needed. Full details on request. |
 
 Also here: a [prompt for building your own skill](prompts/new-skill.md), [two prompts for the Claude Code insights report](prompts/insights.md), and a [Hebrew guide to Claude Code commands and flags](docs/claude-code-commands.he.md).
 
