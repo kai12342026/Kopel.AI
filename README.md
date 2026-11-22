@@ -15,6 +15,7 @@ I'm Adi Kopel Levi, a product manager who builds AI solutions for businesses. Th
 | [site-copy-he](skills/site-copy-he/SKILL.md) | Rules for Hebrew marketing copy, website content and on-screen text. Includes a test for generic sentences and patterns for buttons, errors and empty states. |
 | [presentation-craft](skills/presentation-craft/SKILL.md) | How to build a deck people present instead of read: very little text per slide, plus a separate "what to say on each slide" script with delivery cues. |
 | [save](skills/save/SKILL.md) | Closes a long Claude Code session: writes a handoff file, updates the task list, backs up to git, and returns a short prompt the next session starts from. |
+| [claudetemp-triage](skills/claudetemp-triage/SKILL.md) | Weekly cleanup of a temp-docs folder. Rescues project-related files to their repo, moves orphans to the trash, never hard-deletes and never pushes. Runs on a schedule or on demand. |
 | [council](skills/council/SKILL.md) | Convenes a panel of experts that attacks a plan before you build it. Each expert reviews on their own, and you get one risk report with a verdict: go, go with conditions, or stop. |
 | [client-meeting-summary](skills/client-meeting-summary/SKILL.md) | Turns a transcript or meeting notes into a summary you can send to the client: what was decided, what happens now, and what is still open. |
 | [rtl-hebrew](skills/rtl-hebrew/SKILL.md) | Hebrew and RTL rules: arrow direction, logical CSS properties, numbers that flip, and a check before delivery. |
